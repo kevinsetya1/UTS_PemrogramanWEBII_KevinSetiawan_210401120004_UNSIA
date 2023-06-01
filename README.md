@@ -5,7 +5,6 @@ Universitas Siber Asia
 Berikut ini adalah contoh program PHP sederhana yang saya buat untuk mengoperasikan perintah CRUD pada sebuah database dengan script untuk masing-masing komponen yang dibututhkan seperti script HTML, PHP, dan SQL yang telah disusun.
 
 Mata Kuliah     : Pemrogrmaan WEB II
-
 Kelas           : IT-402
 
 Nama Mahasiswa  : Kevin Setiawan
