@@ -20,9 +20,10 @@ Berikut ini adalah contoh program PHP sederhana yang saya buat untuk mengoperasi
 Penjelasan Struktur Folder Repository:
 
 1. File `index.html` merupakan halaman utama yang akan ditampilkan saat pengunjung mengakses aplikasi.
-2. Folder `database` berisi file `siakad.sql` yang merupakan skrip SQL untuk membuat database "siakad" dan tabel-tabelnya.
-3. Folder `matakuliah`, `dosen`, dan `mahasiswa` masing-masing berisi file-file PHP terkait dengan operasi CRUD pada tabel tersebut.
-4. Dalam setiap folder `matakuliah`, `dosen`, dan `mahasiswa`, terdapat file `matakuliah.php`, `dosen.php`, dan `mahasiswa.php` yang berfungsi sebagai halaman utama untuk menampilkan data dan operasi CRUD pada masing-masing tabel. Selain itu, terdapat juga file-file tambahan untuk operasi tambah, edit, dan hapus.
+2. Folder `css` berisi file `style.css` yang berfungsi untuk mengatur tampilan dan gaya CSS pada halaman-halaman aplikasi.
+3. Folder `database` berisi file `siakad.sql` yang merupakan skrip SQL untuk membuat database "siakad" dan tabel-tabelnya.
+4. Folder `matakuliah`, `dosen`, dan `mahasiswa` masing-masing berisi file-file PHP terkait dengan operasi CRUD pada tabel tersebut.
+5. Dalam setiap folder `matakuliah`, `dosen`, dan `mahasiswa`, terdapat file `matakuliah.php`, `dosen.php`, dan `mahasiswa.php` yang berfungsi sebagai halaman utama untuk menampilkan data dan operasi CRUD pada masing-masing tabel. Selain itu, terdapat juga file-file tambahan untuk operasi tambah, edit, dan hapus.
 
 Thanks and Regards, 
 
