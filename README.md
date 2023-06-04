@@ -1,17 +1,15 @@
 # UTS_PemrogramanWEBII_KevinSetiawan_210401120004_UNSIA
-UJIAN TENGAH SEMESTER
-
-Universitas Siber Asia
-
-Mata Kuliah     : Pemrogrmaan WEB II
-
-Kelas           : IT-402
+Ujian Tengah Semester - Universitas Siber Asia
 
 Nama Mahasiswa  : Kevin Setiawan
 
 NIM             : 210401120004
 
-Prodi           : Informatika PJJ S1
+Kelas           : IT-402
+
+Prodi           : PJJ Informatika S1
+
+Mata Kuliah     : Pemrogrmaan WEB II
 
 Dosen           : Raden Muhamad Firzatullah, M.Kom
 
